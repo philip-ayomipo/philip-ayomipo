@@ -37,7 +37,7 @@ I'm actively learning and building skills in industrial automation using real-wo
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-Presentations-B7472A?style=for-the-badge&logo=microsoft-powerpoint)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github)
 
-
+ 
 ---
 
 ### 🚀 My Projects
