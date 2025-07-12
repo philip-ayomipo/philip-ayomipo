@@ -11,16 +11,32 @@ I am a dedicated Electrical Engineering student with a hands-on focus on Industr
 ### 🛠️ My Skillset
 This is the technology stack I am currently developing:
 
-*   **PLC Programming:**
-    <img src="https://img.shields.io/badge/Siemens-TIA Portal-009999?style=for-the-badge&logo=siemens" />
-*   **HMI Development:**
-    <img src="https://img.shields.io/badge/Siemens-WinCC-009999?style=for-the-badge&logo=siemens" />
-*   **Simulation & Design:**
-    <img src="https://img.shields.io/badge/Factory I/O-Simulation-grey?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Proteus-Circuit Design-blue?style=for-the-badge" />
-*   **Software & Tools:**
-    <img src="https://img.shields.io/badge/Microsoft Excel-1D6F42?style=for-the-badge&logo=microsoft-excel" />
-    <img src="https://img.shields.io/badge/AutoCAD-F29B0C?style=for-the-badge&logo=autodesk" />
+---
+
+### 🛠️ My Skillset
+
+I'm actively learning and building skills in industrial automation using real-world tools and simulations. Here's what I'm currently working with:
+
+#### ⚙️ PLC & Automation Software
+
+![TIA Portal](https://img.shields.io/badge/Siemens-TIA%20Portal-009999?style=for-the-badge&logo=siemens)
+![WinCC](https://img.shields.io/badge/Siemens-WinCC-009999?style=for-the-badge&logo=siemens)
+![Plant Simulation](https://img.shields.io/badge/Siemens-Plant%20Simulation-005B9F?style=for-the-badge&logo=siemens)
+![Factory IO](https://img.shields.io/badge/Factory%20IO-Simulation-grey?style=for-the-badge)
+
+#### 📐 Engineering & Design Tools
+
+![Draw.io](https://img.shields.io/badge/Draw.io-Diagramming-orange?style=for-the-badge&logo=diagramsdotnet)
+![MATLAB](https://img.shields.io/badge/Matlab-Numerical%20Computing-ff6f00?style=for-the-badge&logo=Mathworks)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Drafting-F29B0C?style=for-the-badge&logo=autodesk)
+
+#### 📊 Productivity & Collaboration
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-Documentation-2B579A?style=for-the-badge&logo=microsoft-word)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Spreadsheets-217346?style=for-the-badge&logo=microsoft-excel)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-Presentations-B7472A?style=for-the-badge&logo=microsoft-powerpoint)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github)
+
 
 ---
 
