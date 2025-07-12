@@ -34,5 +34,5 @@ This section will showcase my work. As I complete my automation projects, they w
 ### 📫 How to Reach Me
 Connect with me to discuss technology, automation, or potential opportunities!
 
-*   **LinkedIn:** [Enter Your LinkedIn Profile URL Here Once You Create It]
-*   **Email:** [Enter Your Professional Email Here]
+*   **X (formerly Twitter):** [https://x.com/philipayomipo]
+*   **Email:** [poayomipo@gmail.com]
