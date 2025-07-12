@@ -28,7 +28,7 @@ I'm actively learning and building skills in industrial automation using real-wo
 
 ![Draw.io](https://img.shields.io/badge/Draw.io-Diagramming-orange?style=for-the-badge&logo=diagramsdotnet)
 ![MATLAB](https://img.shields.io/badge/Matlab-Numerical%20Computing-ff6f00?style=for-the-badge&logo=Mathworks)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-Drafting-F29B0C?style=for-the-badge&logo=autodesk)
+
 
 #### 📊 Productivity & Collaboration
 
