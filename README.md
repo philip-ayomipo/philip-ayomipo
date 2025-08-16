@@ -22,7 +22,7 @@ I'm actively learning and building skills in industrial automation using real-wo
 ![TIA Portal](https://img.shields.io/badge/Siemens-TIA%20Portal-009999?style=for-the-badge&logo=siemens)
 ![WinCC](https://img.shields.io/badge/Siemens-WinCC-009999?style=for-the-badge&logo=siemens)
 ![Plant Simulation](https://img.shields.io/badge/Siemens-Plant%20Simulation-005B9F?style=for-the-badge&logo=siemens)
-![Factory IO](https://img.shields.io/badge/Factory%20IO-Simulation-grey?style=for-the-badge)
+
 
 #### 📐 Engineering & Design Tools
 
